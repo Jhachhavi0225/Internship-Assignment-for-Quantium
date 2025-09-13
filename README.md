@@ -1,4 +1,4 @@
-                                                                                     # Walmart Sale Analysis 
+# 🛒 Walmart Sales Data Analysis | SQL Project  
 ## 📖 Overview
 This project is an in-depth *SQL data analysis* of Walmart's retail sales data. The objective was to transform raw sales data into meaningful insights to understand sales performance, customer behavior, and product trends across different branches and time periods.
 
@@ -48,4 +48,13 @@ The analysis uses the walmartsalesdata table, which includes:
 ### 4. Customer Behavior
 - The top-spending customer in the *Fashion Accessories* category spent *₹1,042.60*.
 - *Ewallets* are the most popular payment method in Yangon and Mandalay, while *Cash* is preferred in Naypyitaw.
+
+## Conclusion & Business Impact
+
+## This analysis provides a clear actionable roadmap:
+-  *Resource Allocation*: Balance inventory and staff based on branch performance and peak hours.
+-  *Marketing Strategy*: Focus promotions on high-growth product lines like Health and Beauty.
+-  *Customer Experience*: Promote Ewallet usage in Naypyitaw to streamline checkout.
+
+*The insights derived help in understanding sales dynamics and making data-driven decisions to enhance profitability and operational efficiency*.
                                                                                     
