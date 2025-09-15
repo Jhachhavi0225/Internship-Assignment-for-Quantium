@@ -1,6 +1,5 @@
 # 🛒 Walmart Sales Data Analysis | 
 
----
 ## 📖 Overview
 This project is an in-depth *SQL data analysis* of Walmart's retail sales data. The objective was to transform raw sales data into meaningful insights to understand sales performance, customer behavior, and product trends across different branches and time periods.
 
@@ -39,6 +38,7 @@ The analysis uses the walmartsalesdata table, which includes:
 ---
 ## 📈 Key Insights & Findings
 
+---
 ### 1. Branch Performance
 - Branch C is the top performer, contributing *34.24%* of total sales.
 - All three branches (A, B, C) show remarkably balanced revenue distribution.
@@ -68,8 +68,8 @@ This analysis provides a clear actionable roadmap:
 *The insights derived help in understanding sales dynamics and making data-driven decisions to enhance profitability and operational efficiency*. 
 
 ---
-                                                                                              ## 👩‍💻 Developed by *Jhachhavi*
-                                                                                                 Data Analyst | Visual Storyteller 
+## 👩‍💻 Developed by *Jhachhavi*
+      Data Analyst | Visual Storyteller 
 ---
 
                                                                                     
