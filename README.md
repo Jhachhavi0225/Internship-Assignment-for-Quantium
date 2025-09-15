@@ -2,6 +2,7 @@
 ## 📖 Overview
 This project is an in-depth *SQL data analysis* of Walmart's retail sales data. The objective was to transform raw sales data into meaningful insights to understand sales performance, customer behavior, and product trends across different branches and time periods.
 
+
 ## 🎯 Business Objectives
 This analysis aimed to answer key business questions to drive strategic decisions:
 - *Performance Analysis:* How do different branches and product lines perform?
