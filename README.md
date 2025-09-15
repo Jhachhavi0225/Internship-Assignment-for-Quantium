@@ -57,5 +57,11 @@ The analysis uses the walmartsalesdata table, which includes:
 -  *Marketing Strategy*: Focus promotions on high-growth product lines like Health and Beauty.
 -  *Customer Experience*: Promote Ewallet usage in Naypyitaw to streamline checkout.
 
-*The insights derived help in understanding sales dynamics and making data-driven decisions to enhance profitability and operational efficiency*.
+*The insights derived help in understanding sales dynamics and making data-driven decisions to enhance profitability and operational efficiency*. 
+
+---
+## 👩‍💻 Developed by *Jhachhavi*
+      Data Analyst | Visual Storyteller 
+---
+
                                                                                     
