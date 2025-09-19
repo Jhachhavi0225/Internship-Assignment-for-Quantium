@@ -70,7 +70,7 @@ This analysis provides a clear actionable roadmap:
 *The insights derived help in understanding sales dynamics and making data-driven decisions to enhance profitability and operational efficiency*. 
 
 ---
-## 👩‍💻 Developed by *Jhachhavi*
+## 👩‍💻 Developed by *Chhavi_Jha*
       Data Analyst | Visual Storyteller 
 ---
 
